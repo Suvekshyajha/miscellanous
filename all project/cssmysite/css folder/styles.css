@@ -1,0 +1,137 @@
+body{
+    
+    text-align:center;
+    margin:0;
+}
+
+.top {
+    background-color: #65a5e9;
+    position:relative;
+}
+#topcloud{
+    position:absolute;
+    right:200px;
+}
+#downcloud{
+    position:absolute;
+    left:200px;
+    top: 100px;
+}
+
+h1{
+    text-align: center;
+    color:#65a5e9;
+    border: 5px;
+    padding: 20px;
+    margin: 10px;
+    font-family: "Sacramento", cursive;
+    
+}
+#title{
+    text-align: center;
+    color: #65a5e9;
+    font-size: 75px;
+    padding: 10px;
+    margin: 10px;
+    font-family: "Sacramento", cursive;
+
+}
+h2{
+    text-align: center;
+    color:black
+}
+{
+    position:    center;
+}
+#profile{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+    border-radius:50%;
+}
+#INTRO{
+    text-align: center;
+    content: "\a";
+    font-size: 30px;
+    white white-space: pre;
+}
+
+
+#skilltitle{
+    text-align: center;
+    font-size: 50px;
+    color: #65a5e9;
+     font-family: "roboto", cursive;
+}
+.skillrow p{
+    text-align: left;
+    
+    color: rgb(23, 24, 27);
+    margin: 15px;
+    font-size: 30px;
+
+}
+.skillrow h2{
+    text-align: left;
+    position: relative;
+    color: #65a5e9;
+     font-family: "roboto", cursive;
+    font-size: 35px;
+
+
+}
+.last {
+    margin:10px;
+}
+.Last h1{
+    text-align: center;
+    color: #65a5e9;
+     font-family: "roboto", cursive;
+    
+}
+.last h2{
+    text-align: center;
+    color: rgb(20, 122, 239);
+     font-family: "roboto", cursive;
+}
+.last p{
+    text-align: center;
+}
+.btn{
+    background-color: #65a5e9; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.btn:hover{
+    background-color:rgb(159, 207, 245)
+}
+.bottom-cont{
+    background-color: aqua;
+    margin: 0ch;
+    text-decoration: none;
+}
+.bottom-cont:hover{
+    background-color: azure;
+}
+.bottom-container {
+    background-color:#65a5e9;
+    margin-top: 20px;
+    padding: 20px;
+  }
+  .bottom-container a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+  }
+  .bottom-container a:hover {
+    text-decoration:underline rgb(15, 143, 207);
+  }
+  .copyright {
+    color: white;
+  }
